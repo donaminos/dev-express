@@ -1,1 +1,1 @@
-# Some exercices around Express JS
+# Some exercises about Express JS
